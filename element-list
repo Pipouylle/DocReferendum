@@ -8,5 +8,5 @@ fr.umontpellier.iut.refspring.models
 fr.umontpellier.iut.refspring.models.crypto
 fr.umontpellier.iut.refspring.modules.authentification.controllers
 fr.umontpellier.iut.refspring.modules.authentification.services
-fr.umontpellier.iut.refspring.modules.vote.controllers
-fr.umontpellier.iut.refspring.modules.vote.services
+fr.umontpellier.iut.refspring.modules.referendum.controllers
+fr.umontpellier.iut.refspring.modules.referendum.services
